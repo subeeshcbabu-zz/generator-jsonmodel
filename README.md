@@ -2,7 +2,7 @@
 
 > [Yeoman](http://yeoman.io) generator
 
-![This module is under construction](https://github.com/subeeshcbabu/generator-jsonmodel/docs/img/under_Construct.jpg)
+![This module is under construction](https://raw.githubusercontent.com/subeeshcbabu/generator-jsonmodel/master/docs/img/under_Construct.jpg)
 
 ## Getting Started
 
