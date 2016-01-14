@@ -1,0 +1,8 @@
+{
+	"type" : "object",
+	"properties" : {
+		"more" : {
+			"$ref" : "error.json"
+		}
+	}
+}
